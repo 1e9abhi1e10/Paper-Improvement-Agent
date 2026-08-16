@@ -14,11 +14,11 @@ extension).
 
 ## Demo
 
-<video src="docs/demo.mp4" controls width="100%"></video>
+![Demo walkthrough](docs/demo.gif)
 
-[Watch the demo](docs/demo.mp4) — upload a paper, parse citations, switch
-IEEE/APA, ask the paper, edit with diff approval, run a grounded review, and
-export LaTeX.
+Upload a paper, parse citations, switch IEEE/APA, ask the paper, edit with
+diff approval, run a grounded review, and export LaTeX.
+[Full video (MP4)](docs/demo.mp4)
 
 ## How to run
 

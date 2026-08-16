@@ -37,8 +37,8 @@ flowchart TB
   resolve --> openalex[OpenAlex]
   resolve --> s2[Semantic Scholar]
   resolve --> intext[In-text<br/>cite tokens]
-  intext --> style[Style<br/>IEEE / APA]
-  style --> paper[Paper IR<br/>sections · refs · tokens · diagnostics]
+  intext --> citeStyle[Style<br/>IEEE / APA]
+  citeStyle --> paper[Paper IR<br/>sections · refs · tokens · diagnostics]
   api --> paper
 
   paper --> review[Peer review]
